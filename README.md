@@ -2,7 +2,7 @@
 
 I am learning to become an AI engineer in public. I am working through the free, open-source course [AI Engineering from Scratch](https://github.com/rohitg00/ai-engineering-from-scratch) (MIT licence, by Rohit Ghumare and contributors), all 20 phases in order.
 
-I study with an AI tutor (Claude Code) that teaches each lesson step by step. Every function in this repo is code I typed myself in answer to a lesson task; the tutor ran it and told me when it was wrong.
+I study with an AI tutor (Claude Code) that teaches each lesson step by step. Each file in this repo is my answer to a lesson task. Some tasks gave me most of the function with a blank to fill in, and the tutor helped when I was stuck, so read them as practice work, not as production code.
 
 ## What is here
 
