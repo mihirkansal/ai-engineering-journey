@@ -13,7 +13,7 @@ I study with an AI tutor (Claude Code) that teaches each lesson step by step. Ea
 
 ## Where I am
 
-Phase 2 (ML Fundamentals): lessons 1 to 18 finished, lesson 19 in progress. Phases 0 and 1 (setup, math) are done.
+Latest finished lesson: 02/19 (ML System Design), logged 2026-11-07.
 
 ## Honest notes
 
