@@ -13,7 +13,7 @@ I study with an AI tutor (Claude Code) that teaches each lesson step by step. Ea
 
 ## Where I am
 
-Latest finished lesson: 02/20 (Model Monitoring And Drift), logged 2026-11-08.
+Latest finished lesson: 02/21 (Feature Stores And Training Serving Skew), logged 2026-11-08.
 
 ## Honest notes
 
