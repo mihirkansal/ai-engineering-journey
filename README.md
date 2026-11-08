@@ -13,7 +13,7 @@ I study with an AI tutor (Claude Code) that teaches each lesson step by step. Ea
 
 ## Where I am
 
-Latest finished lesson: 02/19 (ML System Design), logged 2026-11-07.
+Latest finished lesson: 02/20 (Model Monitoring And Drift), logged 2026-11-08.
 
 ## Honest notes
 
